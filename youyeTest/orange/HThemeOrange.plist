@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultColor</key>
+	<string>ffa92e</string>
+	<key>inputTextColor</key>
+	<string>333333</string>
+	<key>controllerBackgroundColor</key>
+	<string>f1f3f3</string>
+	<key>tableViewBackgroundColor</key>
+	<string>f1f3f3</string>
+	<key>tableViewCellSeparatorColor</key>
+	<string>ced0cf</string>
+	<key>homeBroadcast</key>
+	<string>orange_home_broadcast</string>
+	<key>homeTreeGroup</key>
+	<string>orange_home_tree_group</string>
+</dict>
+</plist>
