@@ -1,0 +1,12 @@
+{
+  "code":0,
+  "result":{
+        "version":"1",
+        "themes":[{
+             "theme":"orange",
+             "themePlist":"HThemeOrange",
+             "imagesUrl":"https://raw.githubusercontent.com/hhtAppleDev/ios/master/youyeTest/orange.zip",
+             "imagesPath":"HThemeImages"
+        }]
+   }
+}
