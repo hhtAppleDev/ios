@@ -3,14 +3,14 @@
   "result":{
         "version":"1",
        	"themes":[{
-             	"theme":"lightGray",
+             	"theme":"orange",
 		"icon":"",		
 		"title":"",
 		"themeFont":"",
 		"themeColor":"f1f3f3",
 		"resourceUrl":"https://raw.githubusercontent.com/hhtAppleDev/ios/master/youyeTest/orange.zip",
-            	"themePlist":"HThemeOrange",
-             	"imagesPath":"HThemeImages",
+            	"themePlist”:”orange.plist”,
+             	"imagesPath":"orange",
 		"isLocal":"NO"
         }]
    }
