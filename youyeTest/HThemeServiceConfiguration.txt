@@ -9,7 +9,7 @@
 		"themeFont":"",
 		"themeColor":"f1f3f3",
 		"resourceUrl":"https://raw.githubusercontent.com/hhtAppleDev/ios/master/youyeTest/orange.zip",
-            	"themePlist”:”orange.plist”,
+            	"themePlist":"orange.plist",
              	"imagesPath":"orange",
 		"isLocal":"NO"
         }]
