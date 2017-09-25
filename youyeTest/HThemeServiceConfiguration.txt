@@ -4,8 +4,8 @@
         "version":"1",
        	"themes":[{
              	"theme":"orange",
-		"icon":"",		
-		"title":"",
+		"icon":"https://raw.githubusercontent.com/hhtAppleDev/ios/master/youyeTest/orangeIcon.png",		
+		"title":"橙色",
 		"themeFont":"",
 		"themeColor":"f1f3f3",
 		"resourceUrl":"https://raw.githubusercontent.com/hhtAppleDev/ios/master/youyeTest/orange.zip",
